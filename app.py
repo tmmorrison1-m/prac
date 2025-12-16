@@ -35,13 +35,13 @@ from datetime import datetime
 # In[3]:
 
 
-df1 = pd.read_csv('/Users/murraymorrison/Desktop/xAI_Prep/practice_data1.csv')
+df1 = pd.read_csv('practice_data1.csv')
 
 
 # In[4]:
 
 
-df2 = pd.read_json('/Users/murraymorrison/Desktop/xAI_Prep/practice_data2.json')
+df2 = pd.read_json('practice_data2.json')
 
 
 # In[5]:
